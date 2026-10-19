@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+servis.db
+.venv/
+venv/
+gh-login-out.txt
+gh-login-err.txt
